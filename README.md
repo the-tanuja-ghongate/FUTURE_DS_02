@@ -68,9 +68,8 @@ text
 5. Referral program for high-LTV segments
 
 📁 Repository Structure
-text
 
-FUTURE_DS_02
+
 ├── 📊 Customer_Master.xlsx          (Raw + cleaned data)
 ├── 🔬 Churn_Analysis.xlsx           (Pivot tables + cohorts)
 ├── 🎨 Retention_Dashboard.pbix      (Main deliverable)
@@ -80,8 +79,10 @@ FUTURE_DS_02
 
 
 🏅 Recruiter Highlights
-text
+
 ✅ Production-ready Power BI dashboard
+
 ✅ Advanced Excel analytics (cohorts, CLV)
+
 
 
